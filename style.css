@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  color: #1dcaff;
+}
+.trigger {
+  background: rgb(0, 0, 0, 0.2);
+  border: none;
+  font-size: 35px;
+  color : #0084b4;
+}
+.fa-twitter {
+  color: #00aced;
+  
+}
+.tweet {
+font-size: 35px;
+}
