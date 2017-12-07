@@ -1,2 +1,10 @@
-# randome-quote-machine
+
 Simple quote machine
+
+Used:
+
+❉ HTML
+
+❉ CSS 
+
+❉Javascript
